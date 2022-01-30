@@ -1,0 +1,26 @@
+[
+    {
+      "question": "4 + 4 = ?",
+      "choice1": "8",
+      "choice2": "12",
+      "choice3": "7",
+      "choice4": "10",
+      "answer": 1
+    },
+    {
+      "question": "12 - 9 = ?",
+      "choice1": "4",
+      "choice2": "3",
+      "choice3": "-8",
+      "choice4": "20",
+      "answer": 2
+    },
+    {
+      "question": "18 + 100 = ?",
+      "choice1": "108",
+      "choice2": "218",
+      "choice3": "180",
+      "choice4": "118",
+      "answer": 4
+    }
+  ]
